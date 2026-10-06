@@ -47,3 +47,11 @@ Jeśli narzędzie generuje tylko krótkie klipy, wygeneruj każdy rząd osobno (
 ```
 ffmpeg -i r1.mp4 -i r2.mp4 -i r3.mp4 -filter_complex "[0][1][2]vstack=inputs=3" -t 6 wideo1.mp4
 ```
+
+## Slajd końcowy (logo + zielonydetox.pl)
+Gotowy klip 3 s, 1206×2622, w `outro/slajd-koncowy.mp4` (obraz: `outro/slajd-koncowy.png`, logo: `outro/logo-zielony-detox.png`).
+Dokleja się go na końcu każdego z 3 wideo (oba pliki muszą mieć ten sam rozmiar i fps):
+```
+ffmpeg -i wideo1.mp4 -i outro/slajd-koncowy.mp4 -filter_complex "[0:v]scale=1206:2622,fps=30,setsar=1[a];[1:v]fps=30,setsar=1[b];[0:a][1:a]concat=n=2:v=0:a=1[aa];[a][b]concat=n=2:v=1:a=0[vv]" -map "[vv]" -map "[aa]" wideo1_final.mp4
+```
+Jeśli wideo nie ma ścieżki audio, usuń z komendy część `[0:a][1:a]...[aa]` oraz `-map "[aa]"`.
