@@ -1,37 +1,38 @@
 # Pitche UGC dla hoteli – Tajlandia / Singapur / Bali, październik 2026
 
-Do uzupełnienia raz: **[Imię]**, **[Imię partnera/ki]**, **[@profil]**, **[link do portfolio]**, **[telefon]**.
+Do uzupełnienia raz: **[Imię]**, **[Imię partnera/ki]**, **[@profil]**, **[link do portfolio]**, **[kontakt]**.
 Numery rezerwacji skopiuj z maili z potwierdzeniem (w planie jest tylko numer PARKROYAL).
-Dziecko: roczne (w rezerwacji lotu figuruje jako infant), więc wszędzie "our one-year-old". Dopisz imię, jeśli chcesz.
+Dziecko: roczne, wszędzie "our one-year-old". W nawiasach `[...]` są propozycje konkretnych rzeczy do pokazania. Sprawdź, czy pasują do hotelu, zanim wyślesz.
 
-Krótki szkielet (każdy mail ma te same elementy):
-1. jesteśmy już zarezerwowani, daty i numer,
-2. skoro i tak będziemy – darmowy content, bez zobowiązań, nic nie trzeba zmieniać w rezerwacji,
-3. 3 pionowe filmy (pokój, udogodnienia, doświadczenie gościa) + kąt „podróż z małym dzieckiem",
-4. gotowe do social mediów, strony i reklam, dostawa w 7–10 dni.
-
-Wyślij JAK NAJSZYBCIEJ: pierwszy pobyt jest już 16 października.
+Wyślij jak najszybciej: pierwszy pobyt jest 16 października.
 
 ---
 
 ## 1. Anantara Layan Phuket Resort — 16–17 Oct (1 noc)
 
-Adres: Layan Beach, Cherngtalay, Thalang, Phuket. Rezerwacja płacona bezpośrednio w hotelu (2C2P), numer z maila hotelu.
-Wyślij do: marketing / PR hotelu (sprawdź na stronie Anantara) lub DM na IG.
+Rezerwacja płacona bezpośrednio w hotelu (2C2P), numer z maila hotelu. Wyślij do marketingu / PR (strona Anantara) lub DM na IG.
 
-**Subject:** Family content during our stay at Anantara Layan Phuket, 16–17 Oct
+**Subject:** Free family content during our stay at Anantara Layan Phuket, 16–17 Oct
 
 > Hi Anantara Layan Phuket team,
 >
-> My name is **[Imię]**, I'm a UGC creator. My partner **[Imię]**, our one-year-old and I have booked a stay with you on **16–17 October** (reservation: **[numer]**, name: **[nazwisko]**).
+> My name is **[Imię]**, I'm a UGC creator. My partner **[Imię]**, our one-year-old and I have booked a stay with you on **16–17 October** (reservation: **[numer z maila hotelu]**, name: **[nazwisko]**). We can't wait to arrive after our flight from Warsaw!
+>
+> We chose Layan because of **[the beachfront setting / the private feel of the resort / the pool]**, and because it looks like a place where a whole family can really relax.
 >
 > Since we'll be there anyway, I'd love to create content for you **at no cost and with no obligations**. You don't need to host us or change anything about our booking.
 >
-> We'd create **3 short vertical videos** (room, resort, guest experience) with a **family-travel angle**: what a beachfront stay at Layan looks like for parents with a baby (**[beach / pool / breakfast with a baby / room layout]**). Everything edited and ready for your Instagram, TikTok, website and ads within 7–10 days.
+> What you'd get:
 >
-> We're also staying at Anantara Mai Khao the next night, so if it's useful, we can talk about content for both properties.
+> • **3 short vertical videos** (room, resort, guest experience)
+> • A **family-travel angle**: what a beachfront stay at Layan looks like for parents with a baby (**[beach walk / pool time / breakfast with a baby / room layout]**)
+> • Everything edited and ready for your Instagram, TikTok, website and ads, delivered within **7–10 days** after our stay
 >
-> Is there anything you'd like us to highlight? Examples: **[link]**
+> Families usually choose a hotel based on how it works with small kids, so authentic content like this builds trust before they book.
+>
+> We'll also stay at Anantara Mai Khao the following night, so we're happy to talk about content for both properties.
+>
+> Here are examples of our work: **[link]**. Is there anything you'd especially like us to highlight?
 >
 > Thank you, and see you soon!
 > **[Imię]** | **[@profil]** | **[kontakt]**
@@ -40,21 +41,31 @@ Wyślij do: marketing / PR hotelu (sprawdź na stronie Anantara) lub DM na IG.
 
 ## 2. Anantara Mai Khao Phuket Villas — 17–18 Oct (1 noc)
 
-Rezerwacja przez Booking.com. Ten sam brand co Layan, więc wyślij oba maile do tego samego zespołu i wspomnij o drugim pobycie.
+Rezerwacja przez Booking.com. Ten sam brand co Layan, więc wyślij oba maile do tego samego zespołu.
 
-**Subject:** Family content during our stay at Anantara Mai Khao Phuket Villas, 17–18 Oct
+**Subject:** Free family content during our stay at Anantara Mai Khao, 17–18 Oct
 
 > Hi Anantara Mai Khao team,
 >
-> I'm **[Imię]**, a UGC creator, and my partner **[Imię]**, our one-year-old and I are staying with you on **17–18 October** (reservation: **[numer]**).
+> My name is **[Imię]**, I'm a UGC creator. My partner **[Imię]**, our one-year-old and I have booked a stay with you on **17–18 October** (reservation: **[numer]**, name: **[nazwisko]**). We're arriving from Anantara Layan, where we stay the night before.
 >
-> Since we'll be there anyway, we'd love to create **3 short vertical videos** for you **at no cost and with no obligations**: the villa, the property and the guest experience, from a **family angle** (travelling with a baby: **[private pool / villa space / breakfast / beach]**). Fully edited and ready for social media, your website and ads, delivered within 7–10 days.
+> We chose Mai Khao because of **[the villa setting / the private pool / the quiet beach]**, and because it looks like the perfect place for a family to slow down.
 >
-> We're staying at Anantara Layan Phuket the night before, so we're happy to create content for both Anantara properties.
+> Since we'll be there anyway, I'd love to create content for you **at no cost and with no obligations**. You don't need to host us or change anything about our booking.
 >
-> Examples of our work: **[link]**. Is there anything you'd especially like us to show?
+> What you'd get:
 >
-> Best,
+> • **3 short vertical videos** (villa, property, guest experience)
+> • A **family-travel angle**: what a villa stay looks like for parents with a baby (**[private pool / space to relax / breakfast / beach time]**)
+> • Everything edited and ready for your Instagram, TikTok, website and ads, delivered within **7–10 days** after our stay
+>
+> Families usually choose a hotel based on how it works with small kids, so authentic content like this builds trust before they book.
+>
+> Since we're staying at both Anantara Layan and Mai Khao, we're happy to talk about content for both properties.
+>
+> Here are examples of our work: **[link]**. Is there anything you'd especially like us to highlight?
+>
+> Thank you, and see you soon!
 > **[Imię]** | **[@profil]** | **[kontakt]**
 
 ---
@@ -67,60 +78,87 @@ Adres: Nang Thong Beach, Khao Lak. Rezerwacja przez Booking.com.
 
 > Hi The Sands Khao Lak team,
 >
-> My name is **[Imię]**. I'm a UGC creator, and my partner, our one-year-old and I will be staying with you on **18–19 October** (reservation: **[numer]**).
+> My name is **[Imię]**, I'm a UGC creator. My partner **[Imię]**, our one-year-old and I have booked a stay with you on **18–19 October** (reservation: **[numer]**, name: **[nazwisko]**). We're travelling through southern Thailand and can't wait to reach Khao Lak!
 >
-> Since we'll be there anyway, I'd love to create **3 short vertical videos** for your hotel **at no cost and with no obligations**, covering the room, the beachfront and the guest experience, with a **family-travel angle** (**[beach access / pool / breakfast / baby-friendly details]**). Ready for your social channels, website and ads, delivered within 7–10 days.
+> We chose The Sands because of **[the beachfront location on Nang Thong Beach / the pool / the relaxed atmosphere]**, and because it looks like a place where a whole family can unwind.
 >
-> Families usually choose a hotel based on how it works with small kids, so content like this builds trust before they book.
+> Since we'll be there anyway, I'd love to create content for you **at no cost and with no obligations**. You don't need to host us or change anything about our booking.
 >
-> Examples: **[link]**. Let me know if there's anything you'd like us to highlight!
+> What you'd get:
 >
+> • **3 short vertical videos** (room, property, guest experience)
+> • A **family-travel angle**: what a beach stay at The Sands looks like for parents with a baby (**[beach access / pool / breakfast / baby-friendly details]**)
+> • Everything edited and ready for your Instagram, TikTok, website and ads, delivered within **7–10 days** after our stay
+>
+> Families usually choose a hotel based on how it works with small kids, so authentic content like this builds trust before they book.
+>
+> Here are examples of our work: **[link]**. Is there anything you'd especially like us to highlight?
+>
+> Thank you, and see you soon!
 > **[Imię]** | **[@profil]** | **[kontakt]**
 
 ---
 
 ## 4a. The Tubkaak Krabi Boutique Resort — 19–20 Oct (1 noc)
 
-⚠️ W artefakcie na tę samą noc są dwa obciążenia karty: **Tubkaak (€369)** i **Anawa Krabi (€166)**. Zdecyduj, w którym naprawdę śpicie (a drugi anuluj), i wyślij tylko jeden pitch. Dla Tubkaak (Tab Kaek Beach):
+⚠️ W artefakcie na tę samą noc są dwa obciążenia karty: **Tubkaak (€369)** i **Anawa Krabi (€166)**. Sprawdź, w którym naprawdę śpicie, anuluj drugą rezerwację i wyślij tylko jeden pitch. Dla Tubkaak (Tab Kaek Beach):
 
 **Subject:** Free family content during our stay at The Tubkaak Krabi, 19–20 Oct
 
-> Hi Tubkaak team,
+> Hi The Tubkaak team,
 >
-> I'm **[Imię]**, a UGC creator, and my partner, our one-year-old and I are booked with you on **19–20 October** (reservation: **[numer]**).
+> My name is **[Imię]**, I'm a UGC creator. My partner **[Imię]**, our one-year-old and I have booked a stay with you on **19–20 October** (reservation: **[numer]**, name: **[nazwisko]**). We can't wait to reach Krabi!
 >
-> Since we'll be there anyway, we'd love to create **3 short vertical videos** for you **at no cost and with no obligations**: the room, the resort and Tab Kaek Beach, with a **family-travel angle** (**[boutique atmosphere / beach / pool / quiet time with a baby]**). Edited and ready for social media, your website and ads within 7–10 days.
+> We chose The Tubkaak because of **[the boutique atmosphere / Tab Kaek Beach / the pool]**, and because it looks like a peaceful place for a family stay.
 >
-> Examples: **[link]**. Is there anything you'd like us to show?
+> Since we'll be there anyway, I'd love to create content for you **at no cost and with no obligations**. You don't need to host us or change anything about our booking.
 >
+> What you'd get:
+>
+> • **3 short vertical videos** (room, resort, guest experience)
+> • A **family-travel angle**: what a boutique beach stay looks like for parents with a baby (**[beach / pool / breakfast / quiet time]**)
+> • Everything edited and ready for your Instagram, TikTok, website and ads, delivered within **7–10 days** after our stay
+>
+> Families usually choose a hotel based on how it works with small kids, so authentic content like this builds trust before they book.
+>
+> Here are examples of our work: **[link]**. Is there anything you'd especially like us to highlight?
+>
+> Thank you, and see you soon!
 > **[Imię]** | **[@profil]** | **[kontakt]**
 
 ## 4b. Anawa Krabi — 19–20 Oct (jeśli to tu jesteście)
 
-> (Ten sam tekst co 4a: zmień nazwę hotelu, numer rezerwacji i jedną rzecz do pokazania.)
+Ten sam tekst co 4a: zmień nazwę hotelu, numer rezerwacji i rzeczy w nawiasach.
 
 ## 4c. Krabi 20–22 Oct — hotel jeszcze nie wybrany
 
-Po wyborze hotelu użyj tego samego szablonu. Przy 2 nocach możesz napisać, że nagracie **4–5 filmów zamiast 3**.
+Po wyborze hotelu użyj tego samego szablonu. Przy 2 nocach możesz zaproponować **4–5 filmów zamiast 3**.
 
 ---
 
 ## 5. PARKROYAL COLLECTION Marina Bay, Singapore — 22–23 Oct (1 noc)
 
-Booking.com conf. **5741441781**, pokój Lifestyle Premier King.
-Wyślij na: **enquiry.prsmb@parkroyalcollection.com** (tel. +65 6845 1000). Poproś, żeby przekazali do marketingu.
+Booking.com conf. **5741441781**, pokój Lifestyle Premier King. Wyślij na: **enquiry.prsmb@parkroyalcollection.com** (tel. +65 6845 1000) i poproś o przekazanie do marketingu.
 
-**Subject:** Content collaboration during our stay: booking 5741441781, 22–23 Oct
+**Subject:** Free family content during our stay: booking 5741441781, 22–23 Oct
 
 > Hi PARKROYAL COLLECTION Marina Bay team,
 >
-> My name is **[Imię]**, I'm a UGC creator. My partner **[Imię]**, our one-year-old and I have booked a Lifestyle Premier King room with you for **22–23 October** (Booking.com confirmation **5741441781**, name: **[nazwisko]**). Could you please forward this to your marketing or social media team?
+> My name is **[Imię]**, I'm a UGC creator. My partner **[Imię]**, our one-year-old and I have booked a Lifestyle Premier King room with you for **22–23 October** (Booking.com confirmation **5741441781**, name: **[nazwisko]**). Could you please forward this message to your marketing or social media team?
 >
-> Since we'll be there anyway, we'd love to create **3 short vertical videos** for you **at no cost and with no obligations**: the room, the hotel and the guest experience, with a **city-stay-with-a-baby angle** (**[stroller-friendly access / walk to Gardens by the Bay / room layout / breakfast]**). Edited and ready for your Instagram, TikTok, website and ads within 7–10 days.
+> We chose PARKROYAL because of **[the location in Marina Bay / the design / the walk to Gardens by the Bay]**, and because it looks like a comfortable base for a family exploring Singapore.
 >
-> Families travelling through Singapore are a growing segment, and authentic content helps them picture the stay before they book.
+> Since we'll be there anyway, I'd love to create content for you **at no cost and with no obligations**. You don't need to host us or change anything about our booking.
 >
-> Examples: **[link]**. Is there anything you'd like us to highlight?
+> What you'd get:
+>
+> • **3 short vertical videos** (room, hotel, guest experience)
+> • A **city-stay-with-a-baby angle**: what a stay at PARKROYAL looks like for parents travelling with a little one (**[stroller-friendly access / walk to Gardens by the Bay / room layout / breakfast]**)
+> • Everything edited and ready for your Instagram, TikTok, website and ads, delivered within **7–10 days** after our stay
+>
+> Families are a growing segment for city hotels, and authentic content like this helps them picture the stay before they book.
+>
+> Here are examples of our work: **[link]**. Is there anything you'd especially like us to highlight?
 >
 > Kind regards,
 > **[Imię]** | **[@profil]** | **[kontakt]**
@@ -135,12 +173,23 @@ Adres: Jalan Kartika Plaza, Kuta. Rezerwacja przez Booking.com.
 
 > Hi The Anvaya team,
 >
-> I'm **[Imię]**, a UGC creator, and my partner, our one-year-old and I are staying with you on **23–24 October** (reservation: **[numer]**).
+> My name is **[Imię]**, I'm a UGC creator. My partner **[Imię]**, our one-year-old and I have booked a stay with you on **23–24 October** (reservation: **[numer]**, name: **[nazwisko]**). We're arriving in Bali from Singapore!
 >
-> Since we'll be there anyway, we'd love to create **3 short vertical videos** for you **at no cost and with no obligations**: the room, the resort and the guest experience, with a **family-travel angle** (**[pool / beach / breakfast / baby-friendly facilities]**). Ready for social media, your website and ads within 7–10 days.
+> We chose The Anvaya because of **[the beachfront location in Kuta / the pool / the resort atmosphere]**, and because it looks like a great first stop in Bali for a family.
 >
-> Examples: **[link]**. Is there anything you'd like us to highlight?
+> Since we'll be there anyway, I'd love to create content for you **at no cost and with no obligations**. You don't need to host us or change anything about our booking.
 >
+> What you'd get:
+>
+> • **3 short vertical videos** (room, resort, guest experience)
+> • A **family-travel angle**: what a beach resort stay looks like for parents with a baby (**[pool / beach / breakfast / baby-friendly facilities]**)
+> • Everything edited and ready for your Instagram, TikTok, website and ads, delivered within **7–10 days** after our stay
+>
+> Families usually choose a hotel based on how it works with small kids, so authentic content like this builds trust before they book.
+>
+> Here are examples of our work: **[link]**. Is there anything you'd especially like us to highlight?
+>
+> Thank you, and see you soon!
 > **[Imię]** | **[@profil]** | **[kontakt]**
 
 ---
@@ -149,22 +198,27 @@ Adres: Jalan Kartika Plaza, Kuta. Rezerwacja przez Booking.com.
 
 Najdłuższy pobyt, więc tu proponuj więcej.
 
-**Subject:** Family content collaboration during our 4-night stay at Goya Boutique Resort, 24–28 Oct
+**Subject:** Free family content during our 4-night stay at Goya Boutique Resort, 24–28 Oct
 
 > Hi Goya Boutique Resort team,
 >
-> My name is **[Imię]**, I'm a UGC creator. My partner **[Imię]**, our one-year-old and I have booked **4 nights** with you from **24 to 28 October** (reservation: **[numer]**).
+> My name is **[Imię]**, I'm a UGC creator. My partner **[Imię]**, our one-year-old and I have booked **4 nights** with you from **24 to 28 October** (reservation: **[numer]**, name: **[nazwisko]**). We're heading to Ubud from the coast and can't wait!
 >
-> Since we'll be staying for several days, we'd love to create content for you **at no cost and with no obligations**:
+> We chose Goya because of **[the boutique feel / the Ubud setting / the nature around the resort]**, and because it looks like a calm place to slow down as a family.
+>
+> Since we'll be there anyway, I'd love to create content for you **at no cost and with no obligations**. You don't need to host us or change anything about our booking.
+>
+> What you'd get:
 >
 > • **3–5 short vertical videos** (room, resort, Ubud atmosphere, guest experience)
-> • A **family-travel angle**: a slow, peaceful Ubud stay with a baby (**[nature / pool / villa privacy / breakfast / nap-time calm]**)
-> • Edited and ready for your social media, website and ads, delivered within 7–10 days
+> • A **family-travel angle**: what a slow, peaceful Ubud stay looks like for parents with a baby (**[nature / pool / privacy / breakfast / nap-time calm]**)
+> • Everything edited and ready for your Instagram, TikTok, website and ads, delivered within **7–10 days** after our stay
 >
-> With a longer stay we can show a real day at your resort, not just a quick tour, which is what builds trust with guests who haven't booked yet.
+> With four nights we can show a real day at your resort, not just a quick tour, which is what builds trust with guests who haven't booked yet.
 >
-> Examples: **[link]**. Is there anything you'd especially like us to feature?
+> Here are examples of our work: **[link]**. Is there anything you'd especially like us to highlight?
 >
+> Thank you, and see you soon!
 > **[Imię]** | **[@profil]** | **[kontakt]**
 
 ---
